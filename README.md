@@ -18,3 +18,5 @@ Compressed using: tar czf sr25.tar.gz sr25.sql
 Uncompress using: tar -xzvf sr25.tar.gz
 
 After uncompressing sr25.sql size is about 61MB.
+
+Version with added relations is under 'relations' branch.
